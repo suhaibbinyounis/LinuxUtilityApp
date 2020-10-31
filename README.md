@@ -9,10 +9,10 @@
 4. tkinter
 
 # How to run in terminal?
-1. Change the extension to .py from .sh
-2. sudo python3 LinuxAPP.py
+1. sudo python3 LinuxAPP.py
 
 # To make executable 
+1. Change to .sh extension
 1. sudo chmod +x LinuxAPP.sh
 2. ./LinuxAPP.sh or right click and run.
 
