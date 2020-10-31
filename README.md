@@ -1,6 +1,6 @@
 # LinuxUtilityApp
 * Linux Utility App based on Python3 by Suhaib Bin Younis
-* Follow @suhaibbinyounis | tiny.cc/sby
+* Follow @suhaibbinyounis | http://tiny.cc/sby
 
 # Dependencies - Python Modules
 1. threading
